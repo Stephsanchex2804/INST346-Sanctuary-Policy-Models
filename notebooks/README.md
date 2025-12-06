@@ -34,6 +34,7 @@ Then:
 - Baseline (DummyRegressor)
 - Linear Regression
 - Random Forest Regressor
+**Note:** The full Random Forest model had a large file size and exceeded GitHub’s upload limit (100MB). Therefore, only the baseline and linear regression artifacts are included in the `models/` folder. The Random Forest model can be re-created directly from the notebook using the same training code.
 
 ---
 
