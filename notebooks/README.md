@@ -25,6 +25,9 @@ This sprint focuses on building, evaluating, and comparing predictive models for
 ---
 
 ### ⚙️ How to Run
+or manually:
+
+
 
 Then:
 
