@@ -1,18 +1,11 @@
----
+
+
+
 
 ## 📊 Sprint 3 – Modeling & Evaluation (ADSP)
 
 This sprint focuses on building, evaluating, and comparing predictive models for unemployment outcomes using county-level immigration and demographic data.
 
-### 🔍 What's included
-
-| Folder | Description |
-|---|---|
-| `notebooks/` | Contains the Sprint 3 modeling notebook |
-| `models/` | Saved model artifacts (`.joblib`) |
-| `results/` | Model comparison metrics |
-| `figures/` | Figures generated during evaluation |
-| `data/` | Processed dataset used for modeling |
 
 ---
 
